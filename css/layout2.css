@@ -1,0 +1,31 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#wrapper #header {
+	height: 159px;
+	width: 738px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#wrapper #navigation {
+	height: 45px;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 0px;
+}
+
+#wrapper #content {
+	height: 486px;
+	width: 1024px;
+	vertical-align: top;
+	padding: 0px;
+	background-image: none;
+}

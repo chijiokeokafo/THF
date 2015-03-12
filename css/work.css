@@ -1,0 +1,31 @@
+@charset "utf-8";
+* {
+	padding: 0px;
+	margin: 0px;
+}
+#wrapper {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#wrapper #header {
+	height: 159px;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#wrapper #navigation {
+	margin-right: auto;
+	margin-left: auto;
+	height: 45px;
+	width: 1024px;
+}
+#wrapper #work_content {
+	height: 486px;
+	width: 1024px;
+	padding-right: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../img/tye_work_page.jpg);
+	background-position: -5px;
+}
